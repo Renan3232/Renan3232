@@ -1,12 +1,10 @@
 ### Hi there, I'm Renan. 👋
 
-<!--
+
 **Renan3232/Renan3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning JavaScrip
+- 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Anything
 - 📫 How to reach me: 
 
